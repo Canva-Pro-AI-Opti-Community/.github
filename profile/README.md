@@ -11,7 +11,7 @@
 ## 🛠 Resources
  
   <div align="center">
-  <a href="https://canvapro-ai-alliance.github.io/.github/" target="_blank">
+  <a href="https://github.com/Canva-Pro-AI-Opti-Community/Canva-Pro-AI-Opti-Pack" target="_blank">
     <img src="https://img.shields.io/badge/Join-Community-3498db" alt="Join Community" width="300" height="85" style="border:none;">
   </a>
 </div>
